@@ -1,11 +1,23 @@
 {
   "cities": [
     {
+      "cityName": "Split",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2027-11-12T08:20:49.976Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 43.508133,
+        "lng": 16.440193
+      },
+      "id": 19116753
+    },
+    {
       "cityName": "Lisbon",
       "country": "Portugal",
       "emoji": "🇵🇹",
       "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "notes": "",
       "position": {
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
@@ -35,6 +47,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Warsaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2027-01-23T09:24:11.863Z",
+      "notes": "Top! 😃",
+      "position": {
+        "lat": 52.237049,
+        "lng": 21.017532
+      },
+      "id": 45443119
+    },
+    {
+      "cityName": "Seville",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-01-01T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 37.3890924,
+        "lng": -5.9844589
+      },
+      "id": 20346731
     }
   ]
 }
