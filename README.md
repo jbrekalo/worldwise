@@ -1,8 +1,20 @@
-# React + Vite
+# The Ultimate React Course 2023: React, Redux & More
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## The WorldWise Project
 
-Currently, two official plugins are available:
+### About the project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a project from Jonas Schmedtmann's <strong>The Ultimate React Course 2023</strong>.
+
+The goal of this project is to learn how to use advanced state management tehniques like useReducer and Context API. Also how to use React Router to create routes and implement links and navigation between them.
+
+### Built with
+
+For this project i used:
+
+- React
+- CSS modules
+- Vite
+- React Router
+
+**Have a great day and see you in another project!** 👋👩‍💻
